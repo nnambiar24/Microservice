@@ -1,0 +1,1 @@
+Feign Client used to retrieve transaction details from account microservice.
